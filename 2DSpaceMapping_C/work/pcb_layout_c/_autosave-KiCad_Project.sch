@@ -1,0 +1,385 @@
+EESchema Schematic File Version 5
+EELAYER 43 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
+$EndDescr
+Connection ~ 2100 1700
+Connection ~ 2100 2150
+Connection ~ 2100 2550
+Connection ~ 2100 3800
+Connection ~ 2400 3800
+Connection ~ 2400 4300
+Connection ~ 2400 5350
+Connection ~ 4100 2150
+Connection ~ 4450 2550
+Connection ~ 4800 2150
+Connection ~ 5500 5350
+Connection ~ 5500 5600
+Connection ~ 5600 5600
+Connection ~ 5700 5600
+Connection ~ 5800 5600
+Connection ~ 6300 5550
+Connection ~ 6400 5550
+Connection ~ 6500 5550
+Connection ~ 6600 5550
+Connection ~ 6700 4750
+Connection ~ 6700 5550
+Connection ~ 9950 3400
+Connection ~ 9950 4750
+Connection ~ 10200 2900
+Wire Wire Line
+	550  1700 550  5350
+Wire Wire Line
+	550  5350 2400 5350
+Wire Wire Line
+	1350 3500 1350 2850
+Wire Wire Line
+	1500 3400 1500 2850
+Wire Wire Line
+	2100 1700 550  1700
+Wire Wire Line
+	2100 1700 2100 1750
+Wire Wire Line
+	2100 2150 2100 2050
+Wire Wire Line
+	2100 2150 2100 2250
+Wire Wire Line
+	2100 2550 2100 3800
+Wire Wire Line
+	2100 3800 2400 3800
+Wire Wire Line
+	2100 4750 2100 3800
+Wire Wire Line
+	2250 2150 2100 2150
+Wire Wire Line
+	2400 3800 2400 3850
+Wire Wire Line
+	2400 4300 2400 4150
+Wire Wire Line
+	2400 4300 2400 5350
+Wire Wire Line
+	2400 5350 5500 5350
+Wire Wire Line
+	2550 2150 4100 2150
+Wire Wire Line
+	2650 1500 2650 1700
+Wire Wire Line
+	2650 1700 2100 1700
+Wire Wire Line
+	2650 2250 4200 2250
+Wire Wire Line
+	2650 3100 2650 2250
+Wire Wire Line
+	2750 3100 2650 3100
+Wire Wire Line
+	2750 3400 1500 3400
+Wire Wire Line
+	2750 3500 1350 3500
+Wire Wire Line
+	2750 3600 850  3600
+Wire Wire Line
+	2750 3700 850  3700
+Wire Wire Line
+	2750 3800 2400 3800
+Wire Wire Line
+	2750 4300 2400 4300
+Wire Wire Line
+	3100 1500 2650 1500
+Wire Wire Line
+	3100 1900 3100 1800
+Wire Wire Line
+	4100 1250 4100 2150
+Wire Wire Line
+	4100 2150 4800 2150
+Wire Wire Line
+	4200 1250 4200 2250
+Wire Wire Line
+	4300 1250 4300 1900
+Wire Wire Line
+	4300 1900 3100 1900
+Wire Wire Line
+	4450 1800 4450 2550
+Wire Wire Line
+	4450 2550 2100 2550
+Wire Wire Line
+	4450 2550 6250 2550
+Wire Wire Line
+	4800 1900 4800 2150
+Wire Wire Line
+	4800 2150 6100 2150
+Wire Wire Line
+	4900 1800 4450 1800
+Wire Wire Line
+	4900 1900 4800 1900
+Wire Wire Line
+	5400 5600 5500 5600
+Wire Wire Line
+	5400 5700 5400 5600
+Wire Wire Line
+	5500 5350 5500 5600
+Wire Wire Line
+	5500 5600 5600 5600
+Wire Wire Line
+	5500 5700 5500 5600
+Wire Wire Line
+	5600 5600 5600 5700
+Wire Wire Line
+	5600 5600 5700 5600
+Wire Wire Line
+	5700 5600 5700 5700
+Wire Wire Line
+	5700 5600 5800 5600
+Wire Wire Line
+	5800 5600 5800 5700
+Wire Wire Line
+	5800 5600 5900 5600
+Wire Wire Line
+	5900 5600 5900 5700
+Wire Wire Line
+	6000 5100 6000 5700
+Wire Wire Line
+	6100 1800 6250 1800
+Wire Wire Line
+	6100 1900 6100 2150
+Wire Wire Line
+	6100 5150 6100 5700
+Wire Wire Line
+	6200 5550 6300 5550
+Wire Wire Line
+	6200 5700 6200 5550
+Wire Wire Line
+	6250 1800 6250 2550
+Wire Wire Line
+	6300 5550 6300 5700
+Wire Wire Line
+	6300 5550 6400 5550
+Wire Wire Line
+	6400 5550 6400 5700
+Wire Wire Line
+	6400 5550 6500 5550
+Wire Wire Line
+	6500 5550 6500 5700
+Wire Wire Line
+	6500 5550 6600 5550
+Wire Wire Line
+	6600 5550 6600 5700
+Wire Wire Line
+	6600 5550 6700 5550
+Wire Wire Line
+	6700 4750 2100 4750
+Wire Wire Line
+	6700 4750 6700 5550
+Wire Wire Line
+	6700 4750 9950 4750
+Wire Wire Line
+	6700 5550 6700 5700
+Wire Wire Line
+	9650 3100 9750 3100
+Wire Wire Line
+	9650 3200 9950 3200
+Wire Wire Line
+	9650 3900 10500 3900
+Wire Wire Line
+	9650 4100 10100 4100
+Wire Wire Line
+	9650 4200 10000 4200
+Wire Wire Line
+	9750 2900 10200 2900
+Wire Wire Line
+	9750 3100 9750 2900
+Wire Wire Line
+	9950 3200 9950 3400
+Wire Wire Line
+	9950 3400 9950 4750
+Wire Wire Line
+	9950 3400 10200 3400
+Wire Wire Line
+	9950 4750 10500 4750
+Wire Wire Line
+	10000 4200 10000 5100
+Wire Wire Line
+	10000 5100 6000 5100
+Wire Wire Line
+	10100 4100 10100 5150
+Wire Wire Line
+	10100 5150 6100 5150
+Wire Wire Line
+	10200 2900 10200 3000
+Wire Wire Line
+	10200 2900 10900 2900
+Wire Wire Line
+	10200 3400 10200 3300
+Wire Wire Line
+	10500 3900 10500 3950
+Wire Wire Line
+	10500 4250 10500 4750
+Wire Wire Line
+	10900 2900 10900 5350
+Wire Wire Line
+	10900 5350 5500 5350
+Text GLabel 850  3600 0    50   Input ~ 0
+TX
+Text GLabel 850  3700 0    50   Input ~ 0
+RX
+Text GLabel 1350 2850 0    50   Input ~ 0
+PGC
+Text GLabel 1500 2850 2    50   Input ~ 0
+PGD
+$Comp
+L Device:R R1
+U 1 1 65B75E6B
+P 2100 1900
+F 0 "R1" H 2170 1946 50  0000 L CNN
+F 1 "10K" H 2170 1855 50  0000 L CNN
+F 2 "" V 2030 1900 50  0001 C CNN
+F 3 "~" H 2100 1900 50  0001 C CNN
+	1    2100 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 65B76C50
+P 2400 2150
+F 0 "R2" V 2607 2150 50  0000 C CNN
+F 1 "250" V 2516 2150 50  0000 C CNN
+F 2 "" V 2330 2150 50  0001 C CNN
+F 3 "~" H 2400 2150 50  0001 C CNN
+	1    2400 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 00000000
+P 3100 1650
+F 0 "R3" H 3170 1696 50  0000 L CNN
+F 1 "10K" H 3170 1605 50  0000 L CNN
+F 2 "" V 3030 1650 50  0001 C CNN
+F 3 "~" H 3100 1650 50  0001 C CNN
+	1    3100 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 65B77CB7
+P 2100 2400
+F 0 "C3" H 2215 2446 50  0000 L CNN
+F 1 "0.1uF" H 2215 2355 50  0000 L CNN
+F 2 "" H 2138 2250 50  0001 C CNN
+F 3 "~" H 2100 2400 50  0001 C CNN
+	1    2100 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 65B6D0E4
+P 2400 4000
+F 0 "C1" H 2515 4046 50  0000 L CNN
+F 1 "0.1uF" H 2515 3955 50  0000 L CNN
+F 2 "" H 2438 3850 50  0001 C CNN
+F 3 "~" H 2400 4000 50  0001 C CNN
+	1    2400 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 65B7263E
+P 10200 3150
+F 0 "C2" H 10315 3196 50  0000 L CNN
+F 1 "0.1uF" H 10315 3105 50  0000 L CNN
+F 2 "" H 10238 3000 50  0001 C CNN
+F 3 "~" H 10200 3150 50  0001 C CNN
+	1    10200 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 65B73AEA
+P 10500 4100
+F 0 "C4" H 10615 4146 50  0000 L CNN
+F 1 "10uF" H 10615 4055 50  0000 L CNN
+F 2 "" H 10538 3950 50  0001 C CNN
+F 3 "~" H 10500 4100 50  0001 C CNN
+	1    10500 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Slide~Switch:SLW-883935-2A-D S1
+U 1 1 00000000
+P 4100 1250
+F 0 "S1" V 4600 900 50  0000 R CNN
+F 1 "SLW-883935-2A-D" V 4500 900 50  0000 R CNN
+F 2 "SLW8839352AD" H 4850 -2487 50  0001 L TNN
+F 3 "https://www.cuidevices.com/product/resource/pdf/slw-883935-2a-d.pdf" H 4850 -6424 50  0001 L TNN
+F 4 "6.1" H 4850 -14298 50  0001 L TNN "Height"
+F 5 "179-SLW-883935-2A-D" H 4850 -18235 50  0001 L TNN "Mouser Part Number"
+F 6 "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-883935-2A-D?qs=1Kr7Jg1SGW%2Fv9j8ky6fn%2FQ%3D%3D" H 4850 -22172 50  0001 L TNN "Mouser Price/Stock"
+F 7 "CUI Devices" H 4850 -26109 50  0001 L TNN "Manufacturer_Name"
+F 8 "SLW-883935-2A-D" H 4850 -30046 50  0001 L TNN "Manufacturer_Part_Number"
+	1    4100 1250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x15_Pin J1
+U 1 1 00000000
+P 8200 1600
+F 0 "J1" H 8225 2500 50  0000 C CNN
+F 1 "Conn_01x15_Pin" H 8225 2400 50  0000 C CNN
+F 2 "" H 8200 1600 50  0001 C CNN
+F 3 "~" H 8200 1600 50  0001 C CNN
+	1    8200 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Button:TS02-66-50-BK-100-SCR-D IC1
+U 1 1 00000000
+P 4900 1800
+F 0 "IC1" H 5500 2100 50  0000 C CNN
+F 1 "TS02-66-50-BK-100-SCR-D" H 5500 2000 50  0000 C CNN
+F 2 "TS026650BK100SCRD" H 5950 -1937 50  0001 L TNN
+F 3 "https://www.cuidevices.com/product/resource/ts02.pdf" H 5950 -5874 50  0001 L TNN
+F 4 "5.2" H 5950 -13748 50  0001 L TNN "Height"
+F 5 "179-TS026650BK100SCR" H 5950 -17685 50  0001 L TNN "Mouser Part Number"
+F 6 "https://www.mouser.co.uk/ProductDetail/CUI-Devices/TS02-66-50-BK-100-SCR-D?qs=A6eO%252BMLsxmQON%252BZSzpek2A%3D%3D" H 5950 -21622 50  0001 L TNN "Mouser Price/Stock"
+F 7 "CUI Devices" H 5950 -25559 50  0001 L TNN "Manufacturer_Name"
+F 8 "TS02-66-50-BK-100-SCR-D" H 5950 -29496 50  0001 L TNN "Manufacturer_Part_Number"
+	1    4900 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Edge_Connector:BBC_EDGE 1
+U 1 1 00000000
+P 4700 5850
+F 0 "1" H 4700 5850 50  0001 C CNN
+F 1 "~" H 4700 5850 50  0001 C CNN
+F 2 "untitled:BBC_EDGE" H 4700 5850 50  0001 C CNN
+F 3 "" H 4700 5850 50  0001 C CNN
+	1    4700 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Project-rescue:PIC24FJ64GA002-X_SP-2024-01-28_16-23-25 U1
+U 1 1 65B682FC
+P 2750 3100
+F 0 "U1" H 6200 3487 60  0000 C CNN
+F 1 "PIC24FJ64GA002-X_SP" H 6200 3381 60  0000 C CNN
+F 2 "PIC24FJ64GA002:SPDIP28_300MC_MCH" H 6200 3340 60  0001 C CNN
+F 3 "" H 2750 3100 60  0000 C CNN
+	1    2750 3100
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

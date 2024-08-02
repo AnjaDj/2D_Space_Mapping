@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\AMG_Computers\Desktop\Projektni_RM\2DSpaceMapping_C\work\temp\pcb_layout_c.kicad_sch</source>
+    <date>12/02/2024 17:04:30</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pcb_layout_c.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="11">
+      <value>~</value>
+      <footprint>Edge_Connector:BBC_EDGE</footprint>
+      <libsource lib="Edge_Connector" part="BBC_EDGE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27b0dacc-cade-4521-9113-323e55f6ceb3</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>0,1uF_Capacitor:CAPC1608X95N</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41115334-caba-48dd-9b31-d9d9862f6b34</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>0,1uF_Capacitor:CAPC1608X95N</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54bca495-2ec2-4387-8d84-d2dbd7ccca46</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>10uF_Capacitor:CAPC3225X210N</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7305492b-685c-4833-b6d4-36a7bf14bf7d</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>0,1uF_Capacitor:CAPC1608X95N</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>633e1dee-a947-45a0-909a-3821366e6de2</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>TS02-66-50-BK-100-SCR-D</value>
+      <footprint>Button:TS026650BK100SCRD</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/ts02.pdf</datasheet>
+      <fields>
+        <field name="Height">5.2</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">TS02-66-50-BK-100-SCR-D</field>
+        <field name="Mouser Part Number">179-TS026650BK100SCR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/TS02-66-50-BK-100-SCR-D?qs=A6eO%252BMLsxmQON%252BZSzpek2A%3D%3D</field>
+      </fields>
+      <libsource lib="Button" part="TS02-66-50-BK-100-SCR-D" description="Tactile Switches 6 x 6 mm, 5 mm Act Height, 100 gf, Black, Short Crimped, Through Hole, SPST,"/>
+      <property name="Height" value="5.2"/>
+      <property name="Mouser Part Number" value="179-TS026650BK100SCR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/CUI-Devices/TS02-66-50-BK-100-SCR-D?qs=A6eO%252BMLsxmQON%252BZSzpek2A%3D%3D"/>
+      <property name="Manufacturer_Name" value="CUI Devices"/>
+      <property name="Manufacturer_Part_Number" value="TS02-66-50-BK-100-SCR-D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Tactile Switches 6 x 6 mm, 5 mm Act Height, 100 gf, Black, Short Crimped, Through Hole, SPST,"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac0a716f-fb96-469b-91bc-17461f2d1cb1</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>TS02-66-50-BK-100-SCR-D</value>
+      <footprint>Button:TS026650BK100SCRD</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/ts02.pdf</datasheet>
+      <fields>
+        <field name="Height">5.2</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">TS02-66-50-BK-100-SCR-D</field>
+        <field name="Mouser Part Number">179-TS026650BK100SCR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/TS02-66-50-BK-100-SCR-D?qs=A6eO%252BMLsxmQON%252BZSzpek2A%3D%3D</field>
+      </fields>
+      <libsource lib="Button" part="TS02-66-50-BK-100-SCR-D" description="Tactile Switches 6 x 6 mm, 5 mm Act Height, 100 gf, Black, Short Crimped, Through Hole, SPST,"/>
+      <property name="Height" value="5.2"/>
+      <property name="Mouser Part Number" value="179-TS026650BK100SCR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/CUI-Devices/TS02-66-50-BK-100-SCR-D?qs=A6eO%252BMLsxmQON%252BZSzpek2A%3D%3D"/>
+      <property name="Manufacturer_Name" value="CUI Devices"/>
+      <property name="Manufacturer_Part_Number" value="TS02-66-50-BK-100-SCR-D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Tactile Switches 6 x 6 mm, 5 mm Act Height, 100 gf, Black, Short Crimped, Through Hole, SPST,"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0a6eb43-4a8d-4ccf-929f-620c7000e56a</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x15_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x15_Pin" description="Generic connector, single row, 01x15, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x15, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42a50ae3-7b40-451e-a8b3-15ed2a7305db</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04_Socket</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Socket" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c927c5b3-a9f9-4bc4-8e4d-4f42edeed50f</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04_Socket</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Socket" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75f5f827-4637-4030-a44b-c6efb3a6a05d</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>10k_Resistor:RESC3216X60N</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4e2eb58-df89-43eb-ab91-b4a823e06052</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>250</value>
+      <footprint>240Ohm_Resistor:RESC3216X70N</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0de871f-551a-48df-a2b0-86c3a23bedab</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>10k_Resistor:RESC3216X60N</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ea99e5d-3e6f-455e-8a94-8a984fc0c746</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <footprint>10k_Resistor:RESC3216X60N</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2adfeae-2aed-444f-a100-03b649ea8f1b</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>SLW-883935-2A-D</value>
+      <footprint>Slide Switch:SLW8839352AD</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/pdf/slw-883935-2a-d.pdf</datasheet>
+      <fields>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">SLW-883935-2A-D</field>
+        <field name="Mouser Part Number">179-SLW-883935-2A-D</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-883935-2A-D?qs=1Kr7Jg1SGW%2Fv9j8ky6fn%2FQ%3D%3D</field>
+      </fields>
+      <libsource lib="Slide Switch" part="SLW-883935-2A-D" description="Slide Switches 8.8 x 3.9 x 3.5 mm, 2 mm Raised Slide Actuator, Right-Angle, Through Hole"/>
+      <property name="Height" value="6.1"/>
+      <property name="Mouser Part Number" value="179-SLW-883935-2A-D"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-883935-2A-D?qs=1Kr7Jg1SGW%2Fv9j8ky6fn%2FQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="CUI Devices"/>
+      <property name="Manufacturer_Part_Number" value="SLW-883935-2A-D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <property name="ki_description" value="Slide Switches 8.8 x 3.9 x 3.5 mm, 2 mm Raised Slide Actuator, Right-Angle, Through Hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8acd3a9d-db44-462e-8dab-51d9a858644e</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>2024-01-28_16-23-25_PIC24FJ64GA002-X_SP</value>
+      <footprint>PIC24FJ64GA002:SPDIP28_300MC_MCH</footprint>
+      <libsource lib="pcb_layout_c-rescue" part="PIC24FJ64GA002-X_SP-2024-01-28_16-23-25" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb_layout_c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c2846ab-b0ab-450b-951c-0559fdcda97e</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Button" part="TS02-66-50-BK-100-SCR-D">
+      <description>Tactile Switches 6 x 6 mm, 5 mm Act Height, 100 gf, Black, Short Crimped, Through Hole, SPST,</description>
+      <docs>https://www.cuidevices.com/product/resource/ts02.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TS02-66-50-BK-100-SCR-D</field>
+        <field name="Footprint">TS026650BK100SCRD</field>
+        <field name="Datasheet">https://www.cuidevices.com/product/resource/ts02.pdf</field>
+        <field name="Height">5.2</field>
+        <field name="Mouser Part Number">179-TS026650BK100SCR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/TS02-66-50-BK-100-SCR-D?qs=A6eO%252BMLsxmQON%252BZSzpek2A%3D%3D</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">TS02-66-50-BK-100-SCR-D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NO_1" type="passive"/>
+        <pin num="2" name="NO_2" type="passive"/>
+        <pin num="3" name="COM_1" type="passive"/>
+        <pin num="4" name="COM_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Socket">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x15_Pin">
+      <description>Generic connector, single row, 01x15, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x15_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Edge_Connector" part="BBC_EDGE">
+      <fields>
+        <field name="Reference">1</field>
+        <field name="Value">~</field>
+        <field name="Footprint">untitled:BBC_EDGE</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="EDGE_P3" type="bidirectional"/>
+        <pin num="P$2" name="EDGE_P0_1" type="bidirectional"/>
+        <pin num="P$3" name="EDGE_P0_2" type="bidirectional"/>
+        <pin num="P$4" name="EDGE_P0_3" type="bidirectional"/>
+        <pin num="P$5" name="EDGE_P0_4" type="bidirectional"/>
+        <pin num="P$6" name="EDGE_P4" type="bidirectional"/>
+        <pin num="P$7" name="EDGE_P5" type="bidirectional"/>
+        <pin num="P$8" name="EDGE_P6" type="bidirectional"/>
+        <pin num="P$9" name="EDGE_P7" type="bidirectional"/>
+        <pin num="P$10" name="EDGE_P1_1" type="bidirectional"/>
+        <pin num="P$11" name="EDGE_P1_2" type="bidirectional"/>
+        <pin num="P$12" name="EDGE_P1_3" type="bidirectional"/>
+        <pin num="P$13" name="EDGE_P1_4" type="bidirectional"/>
+        <pin num="P$14" name="EDGE_P8" type="bidirectional"/>
+        <pin num="P$15" name="EDGE_P9" type="bidirectional"/>
+        <pin num="P$16" name="EDGE_P10" type="bidirectional"/>
+        <pin num="P$17" name="EDGE_P11" type="bidirectional"/>
+        <pin num="P$18" name="EDGE_P12" type="bidirectional"/>
+        <pin num="P$19" name="EDGE_P2_1" type="bidirectional"/>
+        <pin num="P$20" name="EDGE_P2_2" type="bidirectional"/>
+        <pin num="P$21" name="EDGE_P2_3" type="bidirectional"/>
+        <pin num="P$22" name="EDGE_P2_4" type="bidirectional"/>
+        <pin num="P$23" name="EDGE_P13" type="bidirectional"/>
+        <pin num="P$24" name="EDGE_P14" type="bidirectional"/>
+        <pin num="P$25" name="EDGE_P15" type="bidirectional"/>
+        <pin num="P$26" name="EDGE_P16" type="bidirectional"/>
+        <pin num="P$27" name="EDGE_3V3_1" type="bidirectional"/>
+        <pin num="P$28" name="EDGE_3V3_2" type="bidirectional"/>
+        <pin num="P$29" name="EDGE_3V3_3" type="bidirectional"/>
+        <pin num="P$30" name="EDGE_3V3_4" type="bidirectional"/>
+        <pin num="P$31" name="EDGE_3V3_5" type="bidirectional"/>
+        <pin num="P$32" name="EDGE_3V3_6" type="bidirectional"/>
+        <pin num="P$33" name="EDGE_P19" type="bidirectional"/>
+        <pin num="P$34" name="EDGE_P20" type="bidirectional"/>
+        <pin num="P$35" name="EDGE_GND_1" type="bidirectional"/>
+        <pin num="P$36" name="EDGE_GND_2" type="bidirectional"/>
+        <pin num="P$37" name="EDGE_GND_3" type="bidirectional"/>
+        <pin num="P$38" name="EDGE_GND_4" type="bidirectional"/>
+        <pin num="P$39" name="EDGE_GND_5" type="bidirectional"/>
+        <pin num="P$40" name="EDGE_GND_16" type="bidirectional"/>
+        <pin num="P$41" name="EDGE_P3" type="bidirectional"/>
+        <pin num="P$42" name="EDGE_P0_1" type="bidirectional"/>
+        <pin num="P$43" name="EDGE_P0_2" type="bidirectional"/>
+        <pin num="P$44" name="EDGE_P0_3" type="bidirectional"/>
+        <pin num="P$45" name="EDGE_P0_4" type="bidirectional"/>
+        <pin num="P$46" name="EDGE_P4" type="bidirectional"/>
+        <pin num="P$47" name="EDGE_P5" type="bidirectional"/>
+        <pin num="P$48" name="EDGE_P6" type="bidirectional"/>
+        <pin num="P$49" name="EDGE_P7" type="bidirectional"/>
+        <pin num="P$50" name="EDGE_P1_1" type="bidirectional"/>
+        <pin num="P$51" name="EDGE_P1_2" type="bidirectional"/>
+        <pin num="P$52" name="EDGE_P1_3" type="bidirectional"/>
+        <pin num="P$53" name="EDGE_P1_4" type="bidirectional"/>
+        <pin num="P$54" name="EDGE_P8" type="bidirectional"/>
+        <pin num="P$55" name="EDGE_P9" type="bidirectional"/>
+        <pin num="P$56" name="EDGE_P10" type="bidirectional"/>
+        <pin num="P$57" name="EDGE_P11" type="bidirectional"/>
+        <pin num="P$58" name="EDGE_P12" type="bidirectional"/>
+        <pin num="P$59" name="EDGE_P2_1" type="bidirectional"/>
+        <pin num="P$60" name="EDGE_P2_2" type="bidirectional"/>
+        <pin num="P$61" name="EDGE_P2_3" type="bidirectional"/>
+        <pin num="P$62" name="EDGE_P2_4" type="bidirectional"/>
+        <pin num="P$63" name="EDGE_P13" type="bidirectional"/>
+        <pin num="P$64" name="EDGE_P14" type="bidirectional"/>
+        <pin num="P$65" name="EDGE_P15" type="bidirectional"/>
+        <pin num="P$66" name="EDGE_P16" type="bidirectional"/>
+        <pin num="P$67" name="EDGE_3V3_1" type="bidirectional"/>
+        <pin num="P$68" name="EDGE_3V3_2" type="bidirectional"/>
+        <pin num="P$69" name="EDGE_3V3_3" type="bidirectional"/>
+        <pin num="P$70" name="EDGE_3V3_4" type="bidirectional"/>
+        <pin num="P$71" name="EDGE_3V3_5" type="bidirectional"/>
+        <pin num="P$72" name="EDGE_3V3_6" type="bidirectional"/>
+        <pin num="P$73" name="EDGE_P19" type="bidirectional"/>
+        <pin num="P$74" name="EDGE_P20" type="bidirectional"/>
+        <pin num="P$75" name="EDGE_GND_1" type="bidirectional"/>
+        <pin num="P$76" name="EDGE_GND_2" type="bidirectional"/>
+        <pin num="P$77" name="EDGE_GND_3" type="bidirectional"/>
+        <pin num="P$78" name="EDGE_GND_4" type="bidirectional"/>
+        <pin num="P$79" name="EDGE_GND_5" type="bidirectional"/>
+        <pin num="P$80" name="EDGE_GND_16" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Slide Switch" part="SLW-883935-2A-D">
+      <description>Slide Switches 8.8 x 3.9 x 3.5 mm, 2 mm Raised Slide Actuator, Right-Angle, Through Hole</description>
+      <docs>https://www.cuidevices.com/product/resource/pdf/slw-883935-2a-d.pdf</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">SLW-883935-2A-D</field>
+        <field name="Footprint">SLW8839352AD</field>
+        <field name="Datasheet">https://www.cuidevices.com/product/resource/pdf/slw-883935-2a-d.pdf</field>
+        <field name="Height">6.1</field>
+        <field name="Mouser Part Number">179-SLW-883935-2A-D</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-883935-2A-D?qs=1Kr7Jg1SGW%2Fv9j8ky6fn%2FQ%3D%3D</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">SLW-883935-2A-D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="COM" type="passive"/>
+        <pin num="3" name="NO" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="pcb_layout_c-rescue" part="PIC24FJ64GA002-X_SP-2024-01-28_16-23-25">
+      <footprints>
+        <fp>SPDIP28_300MC_MCH</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">2024-01-28_16-23-25_PIC24FJ64GA002-X_SP</field>
+        <field name="Footprint">SPDIP28_300MC_MCH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="*MCLR" type="unspecified"/>
+        <pin num="2" name="AN0/VREF+/CN2/RA0" type="unspecified"/>
+        <pin num="3" name="AN1/VREF-/CN3/RA1" type="unspecified"/>
+        <pin num="4" name="PGD1/EMUD1/AN2/C2IN-/RP0/CN4/RB0" type="unspecified"/>
+        <pin num="5" name="PGC1/EMUC1/AN3/C2IN+/RP1/CN5/RB1" type="unspecified"/>
+        <pin num="6" name="AN4/C1IN-/RP2/SDA2/CN6/RB2" type="unspecified"/>
+        <pin num="7" name="AN5/C1IN+/RP3/SCL2/CN7/RB3" type="unspecified"/>
+        <pin num="8" name="VSS" type="unspecified"/>
+        <pin num="9" name="OSCI/CLKI/CN30/RA2" type="unspecified"/>
+        <pin num="10" name="OSCO/CLKO/CN29/PMA0/RA3" type="unspecified"/>
+        <pin num="11" name="SOSCI/RP4/PMBE/CN1/RB4" type="unspecified"/>
+        <pin num="12" name="SOSCO/T1CK/CN0/PMA1/RA4" type="unspecified"/>
+        <pin num="13" name="VDD" type="unspecified"/>
+        <pin num="14" name="PGD3/EMUD3/RP5/ASDA1/CN27/PMD7/RB5" type="unspecified"/>
+        <pin num="15" name="PGC3/EMUC3/RP6/ASCL1/CN24/PMD6/RB6" type="unspecified"/>
+        <pin num="16" name="RP7/INT0/CN23/PMD5/RB7" type="unspecified"/>
+        <pin num="17" name="TCK/RP8/SCL1/CN22/PMD4/RB8" type="unspecified"/>
+        <pin num="18" name="TDO/RP9/SDA1/CN21/PMD3/RB9" type="unspecified"/>
+        <pin num="19" name="DISVREG" type="unspecified"/>
+        <pin num="20" name="VCAP/VDDCORE" type="unspecified"/>
+        <pin num="21" name="PGD2/EMUD2/TDI/RP10/CN16/PMD2/RB10" type="unspecified"/>
+        <pin num="22" name="PGC2/EMUC2/TMS/RP11/CN15/PMD1/RB11" type="unspecified"/>
+        <pin num="23" name="AN12/RP12/CN14/PMD0/RB12" type="unspecified"/>
+        <pin num="24" name="AN11/RP13/CN13/PMRD/RB13" type="unspecified"/>
+        <pin num="25" name="AN10/CVREF/RTCC/RP14/CN12/PMWR/RB14" type="unspecified"/>
+        <pin num="26" name="AN9/RP15/CN11/PMCS1/RB15" type="unspecified"/>
+        <pin num="27" name="VSS" type="unspecified"/>
+        <pin num="28" name="VDD" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Button">
+      <uri>C:/Users/AMG_Computers/Desktop/Projektni_RM/Button/TS02-66-50-BK-100-SCR-D.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Edge_Connector">
+      <uri>C:/Users/AMG_Computers/Desktop/Projektni_RM/Edge_Connector/Edge_Connector.kicad_sym</uri>
+    </library>
+    <library logical="Slide Switch">
+      <uri>C:/Users/AMG_Computers/Desktop/Projektni_RM/Slide Switch/SLW-883935-2A-D.kicad_sym</uri>
+    </library>
+    <library logical="pcb_layout_c-rescue">
+      <uri>C:\Users\AMG_Computers\Desktop\Projektni_RM\2DSpaceMapping_C\work\temp/pcb_layout_c-rescue.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="BAT_CONN">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="AN0/VREF+/CN2/RA0" pintype="unspecified"/>
+    </net>
+    <net code="2" name="CHPD">
+      <node ref="11" pin="P$27" pinfunction="EDGE_3V3_1" pintype="bidirectional"/>
+      <node ref="11" pin="P$28" pinfunction="EDGE_3V3_2" pintype="bidirectional"/>
+      <node ref="11" pin="P$29" pinfunction="EDGE_3V3_3" pintype="bidirectional"/>
+      <node ref="11" pin="P$30" pinfunction="EDGE_3V3_4" pintype="bidirectional"/>
+      <node ref="11" pin="P$31" pinfunction="EDGE_3V3_5" pintype="bidirectional"/>
+      <node ref="11" pin="P$32" pinfunction="EDGE_3V3_6" pintype="bidirectional"/>
+      <node ref="11" pin="P$67" pinfunction="EDGE_3V3_1" pintype="bidirectional"/>
+      <node ref="11" pin="P$68" pinfunction="EDGE_3V3_2" pintype="bidirectional"/>
+      <node ref="11" pin="P$69" pinfunction="EDGE_3V3_3" pintype="bidirectional"/>
+      <node ref="11" pin="P$70" pinfunction="EDGE_3V3_4" pintype="bidirectional"/>
+      <node ref="11" pin="P$71" pinfunction="EDGE_3V3_5" pintype="bidirectional"/>
+      <node ref="11" pin="P$72" pinfunction="EDGE_3V3_6" pintype="bidirectional"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="J1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="VDD" pintype="unspecified"/>
+      <node ref="U1" pin="28" pinfunction="VDD" pintype="unspecified"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="11" pin="P$35" pinfunction="EDGE_GND_1" pintype="bidirectional"/>
+      <node ref="11" pin="P$36" pinfunction="EDGE_GND_2" pintype="bidirectional"/>
+      <node ref="11" pin="P$37" pinfunction="EDGE_GND_3" pintype="bidirectional"/>
+      <node ref="11" pin="P$38" pinfunction="EDGE_GND_4" pintype="bidirectional"/>
+      <node ref="11" pin="P$39" pinfunction="EDGE_GND_5" pintype="bidirectional"/>
+      <node ref="11" pin="P$40" pinfunction="EDGE_GND_16" pintype="bidirectional"/>
+      <node ref="11" pin="P$75" pinfunction="EDGE_GND_1" pintype="bidirectional"/>
+      <node ref="11" pin="P$76" pinfunction="EDGE_GND_2" pintype="bidirectional"/>
+      <node ref="11" pin="P$77" pinfunction="EDGE_GND_3" pintype="bidirectional"/>
+      <node ref="11" pin="P$78" pinfunction="EDGE_GND_4" pintype="bidirectional"/>
+      <node ref="11" pin="P$79" pinfunction="EDGE_GND_5" pintype="bidirectional"/>
+      <node ref="11" pin="P$80" pinfunction="EDGE_GND_16" pintype="bidirectional"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="NO_1" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="NO_2" pintype="passive"/>
+      <node ref="IC2" pin="1" pinfunction="NO_1" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="NO_2" pintype="passive"/>
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="VSS" pintype="unspecified"/>
+      <node ref="U1" pin="8" pinfunction="VSS" pintype="unspecified"/>
+    </net>
+    <net code="4" name="MCLR">
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="S1" pin="3" pinfunction="NO" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(IC1-COM_1)">
+      <node ref="IC1" pin="3" pinfunction="COM_1" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="COM_2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(J1-Pin_8)">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="PGC3/EMUC3/RP6/ASCL1/CN24/PMD6/RB6" pintype="unspecified"/>
+    </net>
+    <net code="8" name="Net-(J1-Pin_9)">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="RP7/INT0/CN23/PMD5/RB7" pintype="unspecified"/>
+    </net>
+    <net code="9" name="Net-(J1-Pin_10)">
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="PGD2/EMUD2/TDI/RP10/CN16/PMD2/RB10" pintype="unspecified"/>
+    </net>
+    <net code="10" name="Net-(S1-COM)">
+      <node ref="S1" pin="2" pinfunction="COM" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="*MCLR" pintype="unspecified"/>
+    </net>
+    <net code="11" name="Net-(U1-TCK{slash}RP8{slash}SCL1{slash}CN22{slash}PMD4{slash}RB8)">
+      <node ref="11" pin="P$33" pinfunction="EDGE_P19" pintype="bidirectional"/>
+      <node ref="11" pin="P$73" pinfunction="EDGE_P19" pintype="bidirectional"/>
+      <node ref="U1" pin="17" pinfunction="TCK/RP8/SCL1/CN22/PMD4/RB8" pintype="unspecified"/>
+    </net>
+    <net code="12" name="Net-(U1-TDO{slash}RP9{slash}SDA1{slash}CN21{slash}PMD3{slash}RB9)">
+      <node ref="11" pin="P$34" pinfunction="EDGE_P20" pintype="bidirectional"/>
+      <node ref="11" pin="P$74" pinfunction="EDGE_P20" pintype="bidirectional"/>
+      <node ref="U1" pin="18" pinfunction="TDO/RP9/SDA1/CN21/PMD3/RB9" pintype="unspecified"/>
+    </net>
+    <net code="13" name="Net-(U1-VCAP{slash}VDDCORE)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="VCAP/VDDCORE" pintype="unspecified"/>
+    </net>
+    <net code="14" name="PGC">
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="PGC1/EMUC1/AN3/C2IN+/RP1/CN5/RB1" pintype="unspecified"/>
+    </net>
+    <net code="15" name="PGD">
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="PGD1/EMUD1/AN2/C2IN-/RP0/CN4/RB0" pintype="unspecified"/>
+    </net>
+    <net code="16" name="RST">
+      <node ref="IC2" pin="3" pinfunction="COM_1" pintype="passive"/>
+      <node ref="IC2" pin="4" pinfunction="COM_2" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="RX">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="AN12/RP12/CN14/PMD0/RB12" pintype="unspecified"/>
+      <node ref="U1" pin="25" pinfunction="AN10/CVREF/RTCC/RP14/CN12/PMWR/RB14" pintype="unspecified"/>
+    </net>
+    <net code="18" name="SCL">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="AN5/C1IN+/RP3/SCL2/CN7/RB3" pintype="unspecified"/>
+    </net>
+    <net code="19" name="SDA">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="AN4/C1IN-/RP2/SDA2/CN6/RB2" pintype="unspecified"/>
+    </net>
+    <net code="20" name="TX">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="AN11/RP13/CN13/PMRD/RB13" pintype="unspecified"/>
+      <node ref="U1" pin="26" pinfunction="AN9/RP15/CN11/PMCS1/RB15" pintype="unspecified"/>
+    </net>
+    <net code="21" name="unconnected-(11-EDGE_P0_1-PadP$2)">
+      <node ref="11" pin="P$2" pinfunction="EDGE_P0_1" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$42" pinfunction="EDGE_P0_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(11-EDGE_P0_2-PadP$3)">
+      <node ref="11" pin="P$3" pinfunction="EDGE_P0_2" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$43" pinfunction="EDGE_P0_2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(11-EDGE_P0_3-PadP$4)">
+      <node ref="11" pin="P$4" pinfunction="EDGE_P0_3" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$44" pinfunction="EDGE_P0_3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(11-EDGE_P0_4-PadP$45)">
+      <node ref="11" pin="P$45" pinfunction="EDGE_P0_4" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$5" pinfunction="EDGE_P0_4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(11-EDGE_P1_1-PadP$10)">
+      <node ref="11" pin="P$10" pinfunction="EDGE_P1_1" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$50" pinfunction="EDGE_P1_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(11-EDGE_P1_2-PadP$11)">
+      <node ref="11" pin="P$11" pinfunction="EDGE_P1_2" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$51" pinfunction="EDGE_P1_2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(11-EDGE_P1_3-PadP$12)">
+      <node ref="11" pin="P$12" pinfunction="EDGE_P1_3" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$52" pinfunction="EDGE_P1_3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(11-EDGE_P1_4-PadP$13)">
+      <node ref="11" pin="P$13" pinfunction="EDGE_P1_4" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$53" pinfunction="EDGE_P1_4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(11-EDGE_P2_1-PadP$19)">
+      <node ref="11" pin="P$19" pinfunction="EDGE_P2_1" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$59" pinfunction="EDGE_P2_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(11-EDGE_P2_2-PadP$20)">
+      <node ref="11" pin="P$20" pinfunction="EDGE_P2_2" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$60" pinfunction="EDGE_P2_2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(11-EDGE_P2_3-PadP$21)">
+      <node ref="11" pin="P$21" pinfunction="EDGE_P2_3" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$61" pinfunction="EDGE_P2_3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(11-EDGE_P2_4-PadP$22)">
+      <node ref="11" pin="P$22" pinfunction="EDGE_P2_4" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$62" pinfunction="EDGE_P2_4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(11-EDGE_P3-PadP$1)">
+      <node ref="11" pin="P$1" pinfunction="EDGE_P3" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$41" pinfunction="EDGE_P3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(11-EDGE_P4-PadP$46)">
+      <node ref="11" pin="P$46" pinfunction="EDGE_P4" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$6" pinfunction="EDGE_P4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(11-EDGE_P5-PadP$47)">
+      <node ref="11" pin="P$47" pinfunction="EDGE_P5" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$7" pinfunction="EDGE_P5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(11-EDGE_P6-PadP$48)">
+      <node ref="11" pin="P$48" pinfunction="EDGE_P6" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$8" pinfunction="EDGE_P6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(11-EDGE_P7-PadP$49)">
+      <node ref="11" pin="P$49" pinfunction="EDGE_P7" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$9" pinfunction="EDGE_P7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(11-EDGE_P8-PadP$14)">
+      <node ref="11" pin="P$14" pinfunction="EDGE_P8" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$54" pinfunction="EDGE_P8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(11-EDGE_P9-PadP$15)">
+      <node ref="11" pin="P$15" pinfunction="EDGE_P9" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$55" pinfunction="EDGE_P9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(11-EDGE_P10-PadP$16)">
+      <node ref="11" pin="P$16" pinfunction="EDGE_P10" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$56" pinfunction="EDGE_P10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(11-EDGE_P11-PadP$17)">
+      <node ref="11" pin="P$17" pinfunction="EDGE_P11" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$57" pinfunction="EDGE_P11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(11-EDGE_P12-PadP$18)">
+      <node ref="11" pin="P$18" pinfunction="EDGE_P12" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$58" pinfunction="EDGE_P12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(11-EDGE_P13-PadP$23)">
+      <node ref="11" pin="P$23" pinfunction="EDGE_P13" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$63" pinfunction="EDGE_P13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(11-EDGE_P14-PadP$24)">
+      <node ref="11" pin="P$24" pinfunction="EDGE_P14" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$64" pinfunction="EDGE_P14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(11-EDGE_P15-PadP$25)">
+      <node ref="11" pin="P$25" pinfunction="EDGE_P15" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$65" pinfunction="EDGE_P15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(11-EDGE_P16-PadP$26)">
+      <node ref="11" pin="P$26" pinfunction="EDGE_P16" pintype="bidirectional+no_connect"/>
+      <node ref="11" pin="P$66" pinfunction="EDGE_P16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(S1-NC-Pad1)">
+      <node ref="S1" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U1-AN1{slash}VREF-{slash}CN3{slash}RA1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="AN1/VREF-/CN3/RA1" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U1-DISVREG-Pad19)">
+      <node ref="U1" pin="19" pinfunction="DISVREG" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U1-OSCI{slash}CLKI{slash}CN30{slash}RA2-Pad9)">
+      <node ref="U1" pin="9" pinfunction="OSCI/CLKI/CN30/RA2" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U1-OSCO{slash}CLKO{slash}CN29{slash}PMA0{slash}RA3-Pad10)">
+      <node ref="U1" pin="10" pinfunction="OSCO/CLKO/CN29/PMA0/RA3" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U1-PGC2{slash}EMUC2{slash}TMS{slash}RP11{slash}CN15{slash}PMD1{slash}RB11-Pad22)">
+      <node ref="U1" pin="22" pinfunction="PGC2/EMUC2/TMS/RP11/CN15/PMD1/RB11" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U1-PGD3{slash}EMUD3{slash}RP5{slash}ASDA1{slash}CN27{slash}PMD7{slash}RB5-Pad14)">
+      <node ref="U1" pin="14" pinfunction="PGD3/EMUD3/RP5/ASDA1/CN27/PMD7/RB5" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U1-SOSCI{slash}RP4{slash}PMBE{slash}CN1{slash}RB4-Pad11)">
+      <node ref="U1" pin="11" pinfunction="SOSCI/RP4/PMBE/CN1/RB4" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U1-SOSCO{slash}T1CK{slash}CN0{slash}PMA1{slash}RA4-Pad12)">
+      <node ref="U1" pin="12" pinfunction="SOSCO/T1CK/CN0/PMA1/RA4" pintype="unspecified+no_connect"/>
+    </net>
+  </nets>
+</export>
